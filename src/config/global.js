@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Generalidades y actos urgentes en accidente de tránsito',
+    descripcionCurso:
+      'El componente formativo presenta las generalidades del accidente de tránsito como los conceptos, definiciones y el marco jurídico que regula los procedimientos que deben tenerse en cuenta para atender accidentes de tránsito con daños materiales o con personas lesionadas o fallecidas, de acuerdo con protocolos de criminalística y cadena de custodia establecidos por la Fiscalía General de la Nación.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

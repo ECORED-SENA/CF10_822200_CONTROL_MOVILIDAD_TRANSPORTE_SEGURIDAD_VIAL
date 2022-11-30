@@ -17,3 +17,34 @@
 
   100%
     transform: translateY(0px)
+
+.bg-gradient-izq 
+  background: rgb(255,243,205);
+  background: linear-gradient(90deg, rgba(255,243,205,.3) 13%, rgba(255,243,205,0) 100%) !important
+.bg-gradient-der 
+  background: rgb(255,243,205);
+  background: linear-gradient(90deg,rgba(255,243,205,0) 13% , rgba(255,243,205,.3) 100%) !important
+.titulo-senal
+  position: relative
+  background-color: $color-secundario
+
+  img
+    position: absolute 
+    top: 0 
+    left: 0
+    transform: translateX(-50%)
+  h5 
+    margin-left: 1.5rem
+    margin-right: 1.5rem
+.hover-o
+  background-color: #e8e8e8
+  transition: all .3s ease-in-out
+  &:hover
+    background-color: #fcc781
+.movil1
+  background-image: url('../assets/curso/temas/tema1/movil1.svg')
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/bg-interno.png') !important
