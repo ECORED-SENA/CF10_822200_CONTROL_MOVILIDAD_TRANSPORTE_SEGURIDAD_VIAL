@@ -86,7 +86,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Procedimientos Judiciales	',
+        titulo: 'Procedimientos judiciales	',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -287,14 +287,13 @@ export default {
     {
       referencia:
         'Limpert, R. (1999). Motor Vehicle Accident Reconstruction and Cause Analysis. Lexis Publishing.',
-      link:
-        'www.google.com/search?q=Limpert%2C+R.+(1999).+Motor+Vehicle+Accident+Reconstruction+and+Cause+Analysis.+Fifth+Edition.+C',
+      link: 'https://www.redalyc.org/pdf/849/84917310035.pdf',
     },
     {
       referencia:
         'Resolución 0011268 de 2012. [Ministerio de Transporte]. . Por la cual se adopta el nuevo informe policial de accidentes de tránsito (IPAT), su Manual de diligenciamiento y se dictan otras disposiciones. 06 de Diciembre de 2012.',
       link:
-        'www.google.com/search?q=Resolución+0011268+de+2012.&rlz=1C5CHFA_enCO775CO775&oq=Resolución+0011268+de+2012.&aqs=chrome..69i57j0l4.1243j0j7&sourceid=chrome&ie=UTF-8',
+        'https://web.mintransporte.gov.co/rnat/app/ayudas/Resolucion_0011268_2012.pdf',
     },
     {
       referencia:

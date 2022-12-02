@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Procedimientos Judiciales
+      h1 Procedimientos judiciales
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema3/1.png', alt='')
       .col-lg-8(data-aos="fade-right")
@@ -179,7 +179,7 @@
                       span.fw-bold 2. 
                       | Manejo de EMP y EF por instituciones de salud.
                 td
-                  h6 Documentos De Secretaría De Salud
+                  h6 Procedimientos de Antiterrorismo
                     ol.lista-ol
                       li.mb-1
                         span.fw-bold 1. 
@@ -439,7 +439,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 De igual manera para fijar fotográficamente una escena del crimen se necesitan accesorios de fotografía judicial como numeradores de evidencia y testigos métricos que le permitan al fotógrafo documentar los planos establecidos en el protocolo.
-    p.mb-5(data-aos='fade-right') De igual manera para fijar fotográficamente una escena del crimen se necesitan accesorios de fotografía judicial como numeradores de evidencia y testigos métricos que le permitan al fotógrafo documentar los planos establecidos en el protocolo.
+    p.mb-5(data-aos='fade-right') La siguiente tabla presenta los planos fotográficos que deben tomarse para la atención de un accidente de tránsito con la cámara fotográfica, y los accesorios de fotografía judicial caracterizado unos requisitos básicos para identificar cada una de las fotos.
     .row.justify-content-center.mb-5
       .col-lg-3.col-4(data-aos="fade-right").mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/25.png', alt='')
       .col-lg-9(data-aos="fade-left")
@@ -662,7 +662,7 @@
     .cajon-b.color-primario.p-3.mb-5.arriba-derecha
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-11.mb-lg-0.mb-3 
-          p.mb-0Las características que deben tener los informes son la claridad, ser concisos, completos y objetivos como lo describe el protocolo de elaboración de informes de policía judicial:
+          p.mb-0 Las características que deben tener los informes son la claridad, ser concisos, completos y objetivos como lo describe el protocolo de elaboración de informes de policía judicial:
         .col-lg-1.col-4: img(src='@/assets/curso/temas/tema3/19.svg', alt='')
     .row.justify-content-center.mb-5
       .col-lg-10

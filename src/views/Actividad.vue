@@ -10,8 +10,8 @@
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Documentar el evento de tránsito de acuerdo con protocolos de criminalística y cadena de custodia.
-        p.mb-4 Caracterizar accidentes de tránsito de acuerdo con normativa de tránsito y transporte con el fin de identificar y aplicar de acuerdo a los protocolos de criminalística y cadena de custodia
+          h2 Clases de accidentes de tránsito
+        p.mb-4 Caracterizar accidentes de tránsito de acuerdo con normativa de tránsito y transporte con el fin de identificar y aplicar de acuerdo a los protocolos de criminalística y cadena de custodia.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

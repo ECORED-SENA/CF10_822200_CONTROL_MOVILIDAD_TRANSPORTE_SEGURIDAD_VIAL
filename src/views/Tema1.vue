@@ -84,25 +84,25 @@
                 td Elemento material probatorio y/o evidencia física.
               tr
                 td PPI
-                td Posible punto de impacto. concepto utilizado para realizar el dibujo topográfico.
+                td Posible punto de impacto. Concepto utilizado para realizar el dibujo topográfico.
               tr
                 td PR
-                td Punto de referencia. concepto utilizado para realizar el dibujo topográfico.
+                td Punto de referencia. Concepto utilizado para realizar el dibujo topográfico.
               tr
                 td P.A.
-                td Punto auxiliar. concepto utilizado para realizar el dibujo topográfico.
+                td Punto auxiliar. Concepto utilizado para realizar el dibujo topográfico.
               tr
                 td HF
-                td Huella de frenado. concepto utilizado para realizar el dibujo topográfico.
+                td Huella de frenado. Concepto utilizado para realizar el dibujo topográfico.
               tr
                 td VEH1
-                td Vehículo uno. concepto utilizado para realizar el dibujo topográfico.
+                td Vehículo uno. Concepto utilizado para realizar el dibujo topográfico.
               tr
                 td EV 1
-                td Evidencia uno. concepto utilizado para realizar el dibujo topográfico.
+                td Evidencia uno. Concepto utilizado para realizar el dibujo topográfico.
               tr
                 td PR VH1
-                td Posible ruta vehículo 1. concepto utilizado para realizar el dibujo topográfico.
+                td Posible ruta vehículo 1. Concepto utilizado para realizar el dibujo topográfico.
               tr
                 td(colspan="2" style='background-color: #000000').text-center.p-4
                   span(style='color: #ffd817').fw-bold Las siguientes son los conceptos necesarios para realizar una inspección a vehículo, donde se establecen doce (12) zonas en el exterior del vehículo donde el investigador debe hallar los daños en siniestros viales.
@@ -221,7 +221,7 @@
     .tarjeta.p-4.mb-5(style="background-color: #d9d9d9")
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-11
-          p.mb-0 Los impactos en el atropello también generan proyecciones que son objeto de estudio, puesto que a través de estos se pueden medir velocidades, trayectorias, fuerzas de impacto, momentum y distancias; es así como, muchos autores han tratado de encontrar patrones de proyección de acuerdo a distintas variables preexistentes al momento del impacto. 
+          p.mb-0 Los impactos en el atropello también generan proyecciones que son objeto de estudio, puesto que a través de estos se pueden medir velocidades, trayectorias, fuerzas de impacto, momento y distancias; es así como, muchos autores han tratado de encontrar patrones de proyección de acuerdo a distintas variables preexistentes al momento del impacto. 
         .col-lg-1.col-4: img(src='@/assets/curso/temas/tema1/12.svg', alt='')
     
     h3.mb-5(data-aos="fade-right")
@@ -277,13 +277,13 @@
         h5(style='color: #ffd817').mb-4 
           span(style='background-color: #000').p-2.rounded-3 Según el tipo de contacto 
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-          div(titulo="Choque frontal céntrico o centrado. ")
+          div(titulo="Choque frontal céntrico o centrado ")
             p El choque frontal céntrico es aquel donde coincide la posición longitudinal de los vehículos con centro en el frente de ambos. 
             img(src='@/assets/curso/temas/tema1/19.svg', alt='')
           div(titulo="Choque frontal excéntrico o descentrado ")
             p Este tipo de choque es un encuentro longitudinal en su dirección, pero con la particularidad que el punto de contacto está dado en sus vértices. 
             img(src='@/assets/curso/temas/tema1/20.svg', alt='')
-          div(titulo="Choque frontal angular. ")
+          div(titulo="Choque frontal angular ")
             p Cuando los ejes longitudinales de los vehículos se encuentran de manera frontal formando un ángulo distinto a 90°, se puede decir existe un choque frontal angular. 
             img(src='@/assets/curso/temas/tema1/21.svg', alt='')
           div(titulo="Choque lateral perpendicular")
@@ -304,7 +304,7 @@
           div(titulo="Choque trasero o posterior excéntrico")
             p Este tipo de accidente se presenta por alcance de los vehículos o mediante una reversa aplicada por el vehículo que se encuentra delante, como se explicó anteriormente, con la diferencia que sus ejes longitudinales están en paralelo pero no concuerdan en una superposición; no obstante el golpe se presenta en los vértices o entre los tercios anteriores izquierdo o derecho y tercios posteriores izquierdo o derecho de los implicados respectivamente. 
             img(src='@/assets/curso/temas/tema1/27.svg', alt='')
-          div(titulo="Choque trasero o posterior Oblicuo")
+          div(titulo="Choque trasero o posterior oblicuo")
             p Para este caso, los vehículos coinciden en un impacto de los partes posterior y anterior, respectivamente, pero sus ejes longitudinales forman un ángulo que en todo caso debe ser diferente de 90°. 
             img(src='@/assets/curso/temas/tema1/28.svg', alt='')
     .titulo-senal.d-inline-block.p-2.mb-5
@@ -457,6 +457,7 @@
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.1 Marco jurídico del accidente de tránsito 
+    p.mb-5(data-aos='fade-right') Todo colombiano tiene derecho a ciruclar libremente por el territorio nacional, pero está sujeto a la intervención y reglamentacion, así: 
     .d-none.d-lg-block.d-md-block: img(src='@/assets/curso/temas/tema1/40.svg', alt='')
     .movil1.d-block.d-md-none.d-lg-none.p-5
       h4.text-center
