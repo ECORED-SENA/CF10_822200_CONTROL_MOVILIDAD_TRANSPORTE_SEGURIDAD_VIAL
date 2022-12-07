@@ -39,7 +39,7 @@
     .bg1.mn
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2SBYKNJlahE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .titulo-senal.d-inline-block.p-2.mb-5
         img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
         h5.text-white.mb-0 Investigación de accidente de tránsito 
@@ -171,7 +171,7 @@
     p.mb-5(data-aos='fade-right') Los accidentes en Colombia se clasifican en seis tipos que son:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DWzEUuTfQAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center.mb-5
       .col-lg-3
         .tarjeta.p-4.hover-o.h-100
