@@ -40,6 +40,7 @@
 
     .d-inline-block(style="background-color: #ffd817").p-2.justify-content-center.m-auto.mb-3
         h4.mb-0 Accidente de tránsito de solo daños materiales 
+    br
     .titulo-senal.d-inline-block.p-2.mb-4
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
       h3.text-white.mb-0.ms-4 Artículo 143 Ley 769 de 2002:
