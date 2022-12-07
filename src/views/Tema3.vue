@@ -20,7 +20,7 @@
           table
             thead
               tr(style="background-color: #000000")
-                th(colspan="2" style="color: #ffd817").fw-bold Número
+                th(colspan="2" style="color: #ffd817").fw-bold.h4 Número
             tbody
               tr
                 td
@@ -180,101 +180,103 @@
                       | Manejo de EMP y EF por instituciones de salud.
                 td
                   h6 Procedimientos de Antiterrorismo
-                    ol.lista-ol
-                      li.mb-1
-                        span.fw-bold 1. 
-                        |Información y verificación del elemento sospechoso.
-                      li.mb-1
-                        span.fw-bold 2. 
-                        |Transporte, almacenamiento transitorio y destrucción. 
-                      li.mb-1
-                        span.fw-bold 3. 
-                        |Verificación y búsqueda en edificaciones. 
-                      li.mb-1
-                        span.fw-bold 4. 
-                        |Verificación y búsqueda en vehículos. 
-                      li.mb-1
-                        span.fw-bold 5. 
-                        |Neutralización de artefacto explosivo. 
-                      li.mb-1
-                        span.fw-bold 6. 
-                        |Actividades post explosión 
-                      li.mb-1
-                        span.fw-bold 7. 
-                        |Manejo de EMP y EF en explosivos. 
-                      li.mb-1
-                        span.fw-bold 8. 
-                        |Métodos de búsqueda. 
-                      li.mb-1
-                        span.fw-bold 9. 
-                        | Equipos y medidas de seguridad.
-                      li.mb-1
-                        span.fw-bold 10. 
-                        | Elaboración y presentación de informes.
+                  ol.lista-ol
+                    li.mb-1
+                      span.fw-bold 1. 
+                      |Información y verificación del elemento sospechoso.
+                    li.mb-1
+                      span.fw-bold 2. 
+                      |Transporte, almacenamiento transitorio y destrucción. 
+                    li.mb-1
+                      span.fw-bold 3. 
+                      |Verificación y búsqueda en edificaciones. 
+                    li.mb-1
+                      span.fw-bold 4. 
+                      |Verificación y búsqueda en vehículos. 
+                    li.mb-1
+                      span.fw-bold 5. 
+                      |Neutralización de artefacto explosivo. 
+                    li.mb-1
+                      span.fw-bold 6. 
+                      |Actividades post explosión 
+                    li.mb-1
+                      span.fw-bold 7. 
+                      |Manejo de EMP y EF en explosivos. 
+                    li.mb-1
+                      span.fw-bold 8. 
+                      |Métodos de búsqueda. 
+                    li.mb-1
+                      span.fw-bold 9. 
+                      | Equipos y medidas de seguridad.
+                    li.mb-1
+                      span.fw-bold 10. 
+                      | Elaboración y presentación de informes.
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.1. Actuaciones del primer responsable
-    .cajon-b.color-primario.p-3.mb-5.arriba-derecha
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-11.mb-lg-0.mb-3 
-          p.mb-0 Tener el primer contacto con el lesionado, pedir ayuda porque no siempre se puede trabajar solo adecuadamente, realizar la evaluación primaria del paciente, solicitar apoyo de los cuerpos de emergencia, son los pasos básicos en caso de accidente de tránsito.
-            br
-            br
-            |El protocolo nacional de actuación del primer responsable, es el siguiente:
-        .col-lg-1.col-4: img(src='@/assets/curso/temas/tema3/2.svg', alt='')
+    .cajon-2
+      .cajon-b.color-primario.p-3.mb-5.arriba-derecha
+        .row.justify-content-center.align-items-center
+          .col-lg-11.mb-lg-0.mb-3 
+            p.mb-0 Tener el primer contacto con el lesionado, pedir ayuda porque no siempre se puede trabajar solo adecuadamente, realizar la evaluación primaria del paciente, solicitar apoyo de los cuerpos de emergencia, son los pasos básicos en caso de accidente de tránsito.
+              br
+              br
+              |El protocolo nacional de actuación del primer responsable, es el siguiente:
+          .col-lg-1.col-3: img(src='@/assets/curso/temas/tema3/16.svg', alt='')
     h4.text-center(data-aos="fade-right").mb-5
-      span(style="background-color: #ffd817").p-3 Actuaciones del primer responsable
+      span(style="background-color: #ffd817; width: 85px").p-3 Actuaciones del primer responsable
     SlyderF.mb-5.slyder-100(columnas="col-lg-6 col-xl-4")
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/3.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 01. Actuación 
+          h4 01. Actuación 
           p Es la primera autoridad que llega al caso e interactúa de cualquier manera en el lugar de los hechos.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/4.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 02. Actuación
+          h4 02. Actuación
           p Deber preservar el lugar de los hechos o escena y todos los EMP y EF tales como vehículos, huellas, vestigios, occisos.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/5.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 03. Actuación
+          h4 03. Actuación
           p Asegurar el lugar para evitar que ocurra otro siniestro teniendo en cuenta que las carreteras son lugares de alta peligrosidad, tanto para las personas como para las autoridades. 
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/6.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 04. Actuación
+          h4 04. Actuación
           p Debe evacuar heridos, asegurar el lugar y acordonar la escena del crimen con barreras físicas, prueba y evidencia física, comunicación a la autoridad de policía judicial competente, diligenciar el formato de primer responsable FPJ-04.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/7.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 05. Actuación
+          h4 05. Actuación
           p No debe retirarse del lugar de los hechos hasta tanto la autoridad de Policía Judicial autorice su retiro, prestar apoyo en el caso, con labores de seguridad y aseguramiento de los EMP y EF, evitando que personas lleguen a contaminar la escena.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/8.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 06. Actuación
+          h4 06. Actuación
           p Realizar el  protocolo de protección preservación y entrega del lugar de los hechos.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/9.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 07. Actuación
+          h4 07. Actuación
           p Instalar el puesto de mando y las autoridades encargadas de procesar la escena.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/10.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 08. Actuación
+          h4 08. Actuación
           p Instalar los dispositivos de señalización en evento de tránsito como lo reglamenta el manual de señalización vial en el numeral 8.6.1. Accidente de tránsito.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/11.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 09. Actuación
+          h4 09. Actuación
           p Realizar una planeación de emergencia estableciendo rutas y normas.
       .tarjeta.overflow-hidden.hover-o.h-100
         img(src='@/assets/curso/temas/tema3/12.jpg', alt='').w-100.mb-4
         .p-4.text-center 
-          h5 10. Actuación
+          h4 10. Actuación
           p Activar las líneas de emergencia, rutas de evacuación salidas normales y salidas de emergencia, avisos de emergencias, y punto de encuentro entre el primer y segundo acordonamiento.
+    Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.2. Actuaciones del coordinador 
     .row.justify-content-center.align-items-center.mb-5
@@ -383,11 +385,12 @@
               i.fas.fa-check
               | Según la necesidad del caso y pericia del investigador, mientras sea diligenciado teniendo en cuenta los parámetros del manual de diligenciamiento del informe policial de accidente de tránsito IPAT resolución 11268  para que funja como una actuación judicial.
         .col-lg-3.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema3/15.png', alt='')
-    .cajon-b.color-primario.p-3.mb-5.arriba-derecha
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-11.mb-lg-0.mb-3 
-          p.mb-0 Las técnicas de planimetría utilizadas para hechos de tránsito se encuentran establecidas en el manual de diligenciamiento del IPAT estableciendo métodos de fijación topográfica como el de coordenadas cartesianas y triangulación como lo presentan los siguientes ejemplos.
-        .col-lg-1.col-4: img(src='@/assets/curso/temas/tema3/16.svg', alt='')
+    .cajon-2
+      .cajon-b.color-primario.p-3.mb-5.arriba-derecha
+        .row.justify-content-center.align-items-center
+          .col-lg-11.mb-lg-0.mb-3 
+            p.mb-0 Las técnicas de planimetría utilizadas para hechos de tránsito se encuentran establecidas en el manual de diligenciamiento del IPAT estableciendo métodos de fijación topográfica como el de coordenadas cartesianas y triangulación como lo presentan los siguientes ejemplos.
+          .col-lg-1.col-3: img(src='@/assets/curso/temas/tema3/16.svg', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 1. 
       span Ejemplo del método de fijación planimétrica de coordenadas cartesianas y triangulación
@@ -403,11 +406,12 @@
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.4. Documentación fotográfica 
-    .cajon-b.color-primario.p-3.mb-5
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-1.col-4: img(src='@/assets/curso/temas/tema3/19.svg', alt='')
-        .col-lg-11.mb-lg-0.mb-3 
-          p.mb-0 La documentación fotográfica del accidente de tránsito, es un protocolo de la fiscalía denominado documentación fotográfica del lugar de los hechos, y es de vital importancia ya que las tomas realizadas a las evidencias y al lugar de los hechos se convertirán en evidencia demostrativa que les permitirá a los intervinientes en el proceso penal, reconocer lo observado por los investigadores el día de los hechos, siendo la herramienta básica para la toma de datos una cámara fotográfica.
+    .cajon-1
+      .cajon-b.color-primario.p-3.mb-5
+        .row.justify-content-center.align-items-center
+          .col-lg-1.col-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/19.svg', alt='')
+          .col-lg-11.mb-lg-0.mb-3 
+            p.mb-0 La documentación fotográfica del accidente de tránsito, es un protocolo de la fiscalía denominado documentación fotográfica del lugar de los hechos, y es de vital importancia ya que las tomas realizadas a las evidencias y al lugar de los hechos se convertirán en evidencia demostrativa que les permitirá a los intervinientes en el proceso penal, reconocer lo observado por los investigadores el día de los hechos, siendo la herramienta básica para la toma de datos una cámara fotográfica.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="fade-right")
         p Los parámetros para el desarrollo de la documentación fotográfica 
@@ -417,21 +421,21 @@
           br
           | La fijación de la escena se divide en tres tiempos: 
           .row.justify-content-center.mb-5
-            .col-lg-3.mb-lg-0.mb-3
+            .col-lg-4.mb-lg-0.mb-3
               .tarjeta.p-4.hover-o.h-100
                 img(src='@/assets/curso/temas/tema3/20.svg', alt='' style="width: 75px").mb-3
                 h5 01.
-                p Fotografiar la escena en su estado original. 
-            .col-lg-3.mb-lg-0.mb-3
+                p.mb-0 Fotografiar la escena en su estado original. 
+            .col-lg-4.mb-lg-0.mb-3
               .tarjeta.p-4.hover-o.h-100
                 img(src='@/assets/curso/temas/tema3/21.svg', alt='' style="width: 75px").mb-3
                 h5 02.
-                p Serie de tomas con los numeradores, indicadores o señalizadores (auxiliares de señalización). 
-            .col-lg-3
+                p.mb-0 Serie de tomas con los numeradores, indicadores o señalizadores (auxiliares de señalización). 
+            .col-lg-4
               .tarjeta.p-4.hover-o.h-100
                 img(src='@/assets/curso/temas/tema3/22.svg', alt='' style="width: 75px").mb-3
                 h5 03. 
-                p Fijar con el objeto de individualizar los EMP y EF hallados, utilizando los testigos métricos y numeradores. 
+                p.mb-0 Fijar con el objeto de individualizar los EMP y EF hallados, utilizando los testigos métricos y numeradores. 
       .col-lg-3.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema3/23.png', alt='')
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -477,18 +481,19 @@
               p Al realizar el procedimiento de inspección al cadáver es necesario que el funcionario con funciones de policía judicial retire los elementos encontrados en el cadáver y realice esta toma fotográfica sobre un fondo de color blanco para el contraste y así garantizar la correcta entrega de pertenencias a los familiares.
             .col-md-6: img(src='@/assets/curso/temas/tema3/33.png', alt='')
     .tarjeta.p-4.mb-5(style="background-color: #fee3c0 ")
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center
         .col-lg-11.mb-lg-0.mb-3
           p.mb-0 El procedimiento de fijación fotográfica debe ser documentado en el formato de policía judicial FPJ 11 en el cual se presentarán las fotografías que harán parte del caso a lo que se le llama el álbum fotográfico, el cual será impreso y anexado a la carpeta de los actos urgentes y las fotografías se descargan en el pc de la entidad y se queman en un CD el cual se pone en cadena de custodia y se envía las fotos al almacén de evidencia o gabinete de fotografía forense de la fiscalía, para estar disponibles en la futura investigación.
-        .col-lg-1.col-4: img(src='@/assets/curso/temas/tema3/19.svg', alt='')
+        .col-lg-1.col-3: img(src='@/assets/curso/temas/tema3/19.svg', alt='')
     Separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.5. Documentación descriptiva y diligenciamiento de formatos de policía judicial (FPJ).
-    .cajon-b.color-acento-botones.p-3.mb-5
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-1.col-4: img(src='@/assets/curso/temas/tema3/19.svg', alt='')
-        .col-lg-11.mb-lg-0.mb-3 
-          p.mb-0 La documentación descriptiva del accidente de tránsito hace referencia al correcto diligenciamiento de los formatos de policía judicial obligatorios para cualquier caso con personas lesionadas o fallecidas, los cuales exigen que el investigador del accidente, diligencie estos formatos establecidos por la Fiscalía General de la Nación para la atención de hechos punibles que para este caso son accidentes de tránsito.
+    .cajon-5
+      .cajon-b.color-acento-botones.p-3.mb-5
+        .row.justify-content-center.align-items-center
+          .col-lg-1.col-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/16.svg', alt='')
+          .col-lg-11.mb-lg-0.mb-3 
+            p.mb-0 La documentación descriptiva del accidente de tránsito hace referencia al correcto diligenciamiento de los formatos de policía judicial obligatorios para cualquier caso con personas lesionadas o fallecidas, los cuales exigen que el investigador del accidente, diligencie estos formatos establecidos por la Fiscalía General de la Nación para la atención de hechos punibles que para este caso son accidentes de tránsito.
     p.mb-5(data-aos='fade-right') La Fiscalía General de la Nación 
       span.r--3.fw-bold estableció 39 formatos de policía judicial los cuales deben ser diligenciados por los investigadores al momento de atender este tipo de hechos punibles, de los cuales los más utilizados para la atención de siniestros viales son:
     .row.justify-content-center.align-items-center.mb-5
@@ -501,105 +506,105 @@
             .col-lg-6
               ol.lista-ol--cuadro
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 1    
                   | Reporte de inicio
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 2    
                   | Formato único de noticia criminal
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 3    
                   | Informe ejecutivo
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 4    
                   | Primer responsable
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 5   
                   | Captura en flagrancia
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 6   
                   | Derechos del capturado
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 7    
                   | Rótulo EMP Y EF
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 8    
                   | Registro cadena de custodia.
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 9    
                   | Inspección a lugar
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 10    
                   |Acta inspección técnica de cadáver
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 11    
                   | Informe investigador de campo
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 12    
                   | Solicitud de análisis
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 13    
                   | Informe investigador de laboratorio
             .col-lg-6
               ol.lista-ol--cuadro
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 14    
                   |  Entrevista
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 16   
                   | Bosquejo topográfico IPAT
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 17    
                   |  Dibujo topográfico
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 22    
                   | Inspección a vehículo
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 28    
                   | Acta consentimiento
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 30   
                   | Acta de entrega
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 32   
                   | Claqueta
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 34    
                   | Arraigo
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 35    
                   | Citación
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 36    
                   | Solicitud historia clínica
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 37    
                   | Solicitud de antecedentes
                 li
-                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817")
+                  .lista-ol--cuadro__vineta.p-3.px-4(style="background-color: #ffd817; width: 85px")
                     span(style="color: black").text-small FPJ 39    
                   | Solicitud de valoración médico legal
     .titulo-senal.d-inline-block.p-2.mb-4
@@ -659,18 +664,19 @@
             li
               i.fas.fa-check
               | Se deberá rendir bajo la gravedad del juramento conforme al artículo 406 de la Ley 906 de 2004. Este último informe en lo que respecta a la investigación de accidentes de tránsito lo utilizan los peritos reconstructores de accidentes bajo orden de policía judicial que emite la fiscalía.
-    .cajon-b.color-primario.p-3.mb-5.arriba-derecha
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-11.mb-lg-0.mb-3 
-          p.mb-0 Las características que deben tener los informes son la claridad, ser concisos, completos y objetivos como lo describe el protocolo de elaboración de informes de policía judicial:
-        .col-lg-1.col-4: img(src='@/assets/curso/temas/tema3/19.svg', alt='')
+    .cajon-2
+      .cajon-b.color-primario.p-3.mb-5.arriba-derecha
+        .row.justify-content-center.align-items-center
+          .col-lg-11.mb-lg-0.mb-3 
+            p.mb-0 Las características que deben tener los informes son la claridad, ser concisos, completos y objetivos como lo describe el protocolo de elaboración de informes de policía judicial:
+          .col-lg-1.col-3: img(src='@/assets/curso/temas/tema3/c1.svg', alt='')
     .row.justify-content-center.mb-5
       .col-lg-10
           table
             thead
               tr(style="background-color: #000000").text-center
-                th( style="color: #ffd817").fw-bold Características
-                th( style="color: #ffd817").fw-bold Descripción  
+                th( style="color: #ffd817").fw-bold.h5 Características
+                th( style="color: #ffd817").fw-bold.h5 Descripción  
             tbody
               tr
                 td Claro
