@@ -285,7 +285,7 @@
           br
           br
           span.r--3.fw-bold En los accidentes de tránsito, el coordinador debe tener pleno conocimiento de las diligencias que se llevan a cabo en el siniestro, saber a cabalidad los procedimientos de la investigación; 
-          | debe tener el liderazgo para dirigir todas las actividades a realizar por los distintos funcionarios, sabiendo las funciones que le competen a cada uno, un buen líder, siempre se gana el respeto de quienes siguen sus pasos , tratando de transmitir sus saberes a través del ejemplo en el desempeño de sus labores dentro de la actividad de policía judicial. 
+          | debe tener el liderazgo para dirigir todas las actividades a realizar por los distintos funcionarios, sabiendo las funciones que le competen a cada uno, un buen líder, siempre se gana el respeto de quienes siguen sus pasos, tratando de transmitir sus saberes a través del ejemplo en el desempeño de sus labores dentro de la actividad de policía judicial. 
       .col-lg-4.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema3/13.png', alt='')
     .titulo-senal.d-inline-block.p-2.mb-4
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
@@ -330,7 +330,7 @@
               |Ultimar hasta el más mínimo detalle de las actuaciones del primer responsable, en caso de existir capturas, recolección de elementos materiales de prueba, información de testigos, incautación de elementos, traslado de víctimas a centros asistenciales, labores de vecindario, datos de las víctimas y del acordonamiento, buscando que este funcionario otorgue la mayor información útil para la investigación de una manera formal y bajo los preceptos normativos. 
             li.mb-1
               i.fas.fa-check(style="color: #535353")
-              |El coordinador establece los métodos de búsqueda de EMP y EF,Ordena las fijaciones, fotográfica, topográfica, descriptiva, videográfica o las que considere necesarias, bajo los estrictos protocolos de policía judicial y de procedimientos de cadena de custodia.
+              |El coordinador establece los métodos de búsqueda de EMP y EF, Ordena las fijaciones, fotográfica, topográfica, descriptiva, videográfica o las que considere necesarias, bajo los estrictos protocolos de policía judicial y de procedimientos de cadena de custodia.
 
             li.mb-1
               i.fas.fa-check(style="color: #535353")
@@ -346,7 +346,7 @@
         .col-lg-9(data-aos="fade-left")
           p 
             span.r--3.fw-bold Resolución 0011268 de 2012, 
-            | “ por la cual se aprueba el manual para el diligenciamiento del informe policial de accidentes de tránsito”.
+            | “por la cual se aprueba el manual para el diligenciamiento del informe policial de accidentes de tránsito”.
           ul.lista-ul--color
             li.mb-1
               i.fas.fa-check
@@ -660,7 +660,7 @@
               | Informe del investigador de laboratorio FPJ13, es el formato que utilizan los peritos para desarrollar los resultados de sus análisis donde deben explicarse los procedimientos técnicos científicos empleados en la realización del examen.
             li
               i.fas.fa-check
-              | El informe del investigador sirve como dictamen pericial emitido por los expertos en cualquiera de las áreas de conocimiento de la ciencias forenses y medicina legal, dictámenes realizados a partir de los EMP y EF que forman parte de una investigación. 
+              | El informe del investigador sirve como dictamen pericial emitido por los expertos en cualquiera de las áreas de conocimiento de las ciencias forenses y medicina legal, dictámenes realizados a partir de los EMP y EF que forman parte de una investigación. 
             li
               i.fas.fa-check
               | Se deberá rendir bajo la gravedad del juramento conforme al artículo 406 de la Ley 906 de 2004. Este último informe en lo que respecta a la investigación de accidentes de tránsito lo utilizan los peritos reconstructores de accidentes bajo orden de policía judicial que emite la fiscalía.

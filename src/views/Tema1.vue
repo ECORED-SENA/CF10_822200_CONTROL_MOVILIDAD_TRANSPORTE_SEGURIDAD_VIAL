@@ -313,7 +313,7 @@
             p Cuando los ejes longitudinales de los vehículos se encuentran de manera frontal formando un ángulo distinto a 90°, se puede decir existe un choque frontal angular. 
             img(src='@/assets/curso/temas/tema1/21.svg', alt='')
           div(titulo="Choque lateral perpendicular")
-            p En este choque los ejes forman una ángulo de 90°, sub dividiéndose a su vez en anteriores (parte delantera), centrales (parte central), posteriores (parte trasera).
+            p En este choque los ejes forman un ángulo de 90°, subdividiéndose a su vez en anteriores (parte delantera), centrales (parte central), posteriores (parte trasera).
             img(src='@/assets/curso/temas/tema1/22.svg', alt='')
           div(titulo="Choque lateral oblicuo")
             p Los ejes longitudinales en este choque, se encuentran en cualquiera de los laterales de uno de los vehículos, con el frente del otro, formando un ángulo diferente de 90°.
@@ -376,7 +376,7 @@
       .cajon-b.color-primario.p-3.mb-5.arriba-derecha
         .row.justify-content-center.align-items-center
           .col-lg-11
-            p.mb-0 Como se puede apreciar, en el campo 5.1 aparecen las opciones de choque con vehículo, tren, semoviente u objeto fijo, pero en caso de presentarse una colisión con un objeto fijo, es necesario señalar que tipo de objeto y por ende remitirse al campo 5.2, el cual especifica mediante once (11) opciones cual es el tipo de objeto fijo con el que ha colisionado el vehículo en cuestión, donde las opciones son : muro, poste, árbol, baranda, semáforo, inmueble, hidrante, valla señal, tarima, caseta, vehículo estacionado y otro. 
+            p.mb-0 Como se puede apreciar, en el campo 5.1 aparecen las opciones de choque con vehículo, tren, semoviente u objeto fijo, pero en caso de presentarse una colisión con un objeto fijo, es necesario señalar que tipo de objeto y por ende remitirse al campo 5.2, el cual especifica mediante once (11) opciones cual es el tipo de objeto fijo con el que ha colisionado el vehículo en cuestión, donde las opciones son: muro, poste, árbol, baranda, semáforo, inmueble, hidrante, valla señal, tarima, caseta, vehículo estacionado y otro. 
           .col-lg-1.col-4: img(src='@/assets/curso/temas/tema1/29.svg', alt='') 
     .titulo-senal.d-inline-block.p-2.mb-4
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
@@ -384,7 +384,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/30.png', alt='') 
       .col-lg-8(data-aos="fade-left") 
-        p.mb-0 El tipo de accidente “otro”, es el vehículo que sale de la carretera y sin chocar previamente cae a un rio, precipicio o barranco, también, se puede clasificar en esta categoría, los vehículos que son accidentados por un deslizamiento de tierra, caída de piedras de una montaña o aquellos arrastrados por una creciente de un rio o inundación, atrapados en carretera por un terremoto o cualquiera que se presente en fenómenos naturales o artificiales.
+        p.mb-0 El tipo de accidente “otro”, es el vehículo que sale de la carretera y sin chocar previamente cae a un río, precipicio o barranco, también, se puede clasificar en esta categoría, los vehículos que son accidentados por un deslizamiento de tierra, caída de piedras de una montaña o aquellos arrastrados por una creciente de un río o inundación, atrapados en carretera por un terremoto o cualquiera que se presente en fenómenos naturales o artificiales.
     .titulo-senal.d-inline-block.p-2.mb-4
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
       h3.text-white.mb-0.ms-4 Escenas del accidente de tránsito   
@@ -438,7 +438,7 @@
         .col-lg-5.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/31.svg', alt='').p-5.pb-0  
     .titulo-senal.d-inline-block.p-2.mb-4
       img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
-      h3.text-white.mb-0.ms-4 Escenas temporo-espaciales:\
+      h3.text-white.mb-0.ms-4 Escenas temporo-espaciales:
     .cajon-3
       .cajon-b.color-primario.p-3.mb-5
         .row.justify-content-center.align-items-center
@@ -485,7 +485,7 @@
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.1 Marco jurídico del accidente de tránsito 
-    p.mb-5(data-aos='fade-right') Todo colombiano tiene derecho a ciruclar libremente por el territorio nacional, pero está sujeto a la intervención y reglamentacion, así: 
+    p.mb-5(data-aos='fade-right') Todo colombiano tiene derecho a circular libremente por el territorio nacional, pero está sujeto a la intervención y reglamentación, así: 
     .d-none.d-lg-block.d-md-block: img(src='@/assets/curso/temas/tema1/40.svg', alt='')
     .movil1.d-block.d-md-none.d-lg-none.p-5
       .d-flex.w-100.justify-content-center.mb-4

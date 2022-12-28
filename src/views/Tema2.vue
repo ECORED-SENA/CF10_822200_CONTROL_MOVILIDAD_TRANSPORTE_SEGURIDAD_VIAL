@@ -30,10 +30,10 @@
             br
             | Luego del procesamiento de la escena cumpliendo los protocolos de criminalística y del correcto diligenciamiento del IPAT, la autoridad de tránsito debe diligenciar los formatos de policía judicial, llevar a los conductores a la práctica del examen de embriaguez y poner las evidencias bajo cadena de custodia y llevarlas al almacén de evidencias de la fiscalía general de la nación.
     //TODO agregar iconos
-    .tarjeta-iconos(style="background-color: #ffd8a5").p-3.position-relative
+    .tarjeta-iconos(style="background-color: #ffd8a5").p-3.position-relative.d-flex.align-items-center
       .adorno__1.d-none.d-lg-block: img(src='@/assets/curso/temas/tema2/a1.svg', alt='' )
-      .adorno__2.d-none.d-lg-block: img(src='@/assets/curso/temas/tema2/a2.svg', alt='')
       p.px-5.mb-0 Es por este motivo que en accidentes de tránsito, el arma con el cual se ocasionan lesiones u homicidios son los vehículos los cuales deben ir al parqueadero autorizado por la fiscalía y será la fiscalía la que haga entrega del elemento una vez realizado el procedimiento técnico.
+      .adorno__2.d-none.d-lg-block: img(src='@/assets/curso/temas/tema2/a2.svg', alt='')
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.1. Aspectos normativos que regulan el accidente de tránsito
@@ -50,15 +50,14 @@
           br
           br
           span.fst-italic(style="background-color: #fff5c5 ") “… los conductores, entidades aseguradoras y demás interesados en el accidente recaudará todas las pruebas relativas a la colisión mediante la utilización de herramientas técnicas y tecnológicas, que permitan la atención del mismo en forma oportuna, segura y que garantice la autenticidad, integridad, conservación y posterior consulta  y uso probatorio de la información. Para tal efecto, el material probatorio recaudado con estas condiciones reemplazará el informe de accidente de tránsito que expide la autoridad competente”.
-          br
-          br
-          | Ley 2251 artículo 16 de 2022:
-          br
-          br
+        .titulo-senal.d-inline-block.p-2.mb-4
+          img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
+          h3.text-white.mb-0.ms-4 Ley 2251 artículo 16 de 2022: 
+        p
           span.fst-italic(style="background-color: #fff5c5 ") “… los conductores deben retirar inmediatamente los vehículos colisionados y todo elemento que pueda interrumpir el tránsito y acudir a los centros de conciliación debidamente autorizados por el Ministerio de Justicia y del Derecho. Si fracasa la conciliación, cualquiera de las partes puede acudir a los demás mecanismos de acceso a la justicia. Para tal efecto, no será necesaria la expedición del informe de accidente de tránsito, ni la presencia de autoridad de tránsito en la respectiva audiencia de conciliación”.
           br
           br
-          | Lo anterior busca descongestionar y agilizar los procedimientos, donde ahora los conductores no requieren la presencia de la autoridad de tránsito para el diligenciamiento del IPAT, solo tomarán ellos mismos los tomar datos y remitirse a un centro de conciliación para solucionar el impase.  
+          | Lo anterior busca descongestionar y agilizar los procedimientos, donde ahora los conductores no requieren la presencia de la autoridad de tránsito para el diligenciamiento del IPAT, solo tomarán ellos mismos los datos y remitirse a un centro de conciliación para solucionar el impase.  
         .titulo-senal.d-inline-block.p-2.mb-4
           img(src='@/assets/curso/temas/tema1/senal.svg', alt='' style='width: 34px')
           h3.text-white.mb-0.ms-4 Artículo 144 de la Ley 769 del 2002:
@@ -118,7 +117,7 @@
             |La finalidad de los actos urgentes es recolectar y embalar todos y cada uno de los elementos materiales de prueba y evidencias físicas (EMP Y EF) encontradas en el lugar de los hechos, por lo que debe realizarse una documentación descriptiva, fotográfica y topográfica del lugar y las evidencias para su posterior análisis forense.
             br
             br
-            |La norma también establece que cuando deba practicarse examen médico-legal a la víctima o al indiciado, por ejemplo, descripción de lesiones o examen de embriaguez, necropsia entre otros, es deber de la autoridad trasladar las personas al centro médico oficial y autorizado por la fiscalía para desarrollar el procedimiento, entendiendo que el código de tránsito establece obligatoria la obligación de realizar el examen de embriaguez a los conductores inmersos en un accidente de tránsito.
+            |La norma también establece que cuando deba practicarse examen médico-legal a la víctima o al indiciado, por ejemplo, descripción de lesiones o examen de embriaguez, necropsia, entre otros, es deber de la autoridad trasladar las personas al centro médico oficial y autorizado por la fiscalía para desarrollar el procedimiento, entendiendo que el código de tránsito establece obligatoria la obligación de realizar el examen de embriaguez a los conductores inmersos en un accidente de tránsito.
         .col-lg-1.col-4: img(src='@/assets/curso/temas/tema2/11.svg', alt='')
       .row(numero="3" titulo="Ley 906 de 2004, Artículos 254 a 266 y Manual Único de Policia Judicial")
         .col-lg-11.mb-lg-0.mb-3
@@ -305,8 +304,9 @@ export default {
   img
     margin: 0 auto
 .adorno__2
-  position: absolute
+  position: inherit
+  width: 200px
   top: 0
   right: 0
-  transform: translate(-40%, 0%)
+  transform: translate(40%, 0%)
 </style>
